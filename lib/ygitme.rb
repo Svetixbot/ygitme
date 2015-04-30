@@ -7,6 +7,7 @@ module Ygitme
       gitCommit
       gitLog
       gitBranch
+      gitVersion
     end
 
     def gitLog
